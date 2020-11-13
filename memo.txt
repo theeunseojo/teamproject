@@ -1,1 +1,11 @@
 메모장
+commit 변경 내용 로컬 저장소에 저장
+push 변경내용 원격 저장소에  업로드
+ 
+1. git init ( 깃 저장소 생성) 
+remote repository로 coomit,push 할수 있다
+2.git add 
+
+3.git commit -m"메시지"
+
+4. git push 
